@@ -1,5 +1,10 @@
-<<<<<<< HEAD
-# React + Vite
+# Terminal-Portfolio
+
+This is my portfolio project built as a terminal-style React app.
+
+---
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -11,10 +16,3 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Terminal-Portfolio
->>>>>>> 2c2926687c97c2f729bc3deaf2d035b688fa62b6
-"# -Terminal-Portfolio" 
-"# -Terminal-Portfolio" 
-"# -Terminal-Portfolio" 
-"# -Terminal-Portfolio" 
